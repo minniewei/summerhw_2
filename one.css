@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+.uppercat{
+	width:100%;
+	opacity:0.8;
+}
+.catdiv{
+	width:33%;
+}
+.downcatdiv{
+	margin:0% 8%;
+}
+.totlaset{
+	background-color: rgba(212,251,229,0.50);
+}
+.totalleft{
+	background-color: antiquewhite;
+	width:100%;
+	/*暫緩*/
+	height:1000px;
+}
+.peoplediv{
+	width:100%;
+	height:20%;
+	position: relative;
+}
+.worddiv{
+	width:100%;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.master{
+	width:150%;
+	position:absolute;
+	top:-65px;
+	right:-70px;
+	opacity:0.8;
+}
+.wordwelcome{
+	width:100%;
+	opacity:0.7;
+}
+.worddivbreed{
+	width:78%;
+	padding-left: 11%;
+}
+.radio{
+	width: 80%;
+	margin-left: 10%;
+}
+.radioimage{
+	width:20%;
+}
+.input{
+	margin-left:20%
+}
+.selectsection{
+	margin-left:15%
+}
+.button{
+	margin-left:15%;
+	width:60%;
+	height:2%;
+	margin-top:10%
+}
+.buttonimage{
+	width:100%;
+	height: 10%;
+	opacity: 0.7;
+}
+.search{
+	margin-left:15%;
+}
